@@ -1,0 +1,66 @@
+# C++ build files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.a
+*.lib
+*.so
+*.so.*
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+Debug/
+Release/
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+
+# Code::Blocks
+*.depend
+*.layout
+
+# CLion
+cmake-build-*/
+
+# Visual Studio
+*.vcxproj*
+*.sln
+*.vcproj*
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.filters
+ipch/
+# macOS
+.DS_Store
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# Logs
+*.log
+
+# Other IDEs
+.idea/
+.vscode/
+*.iml
+
+# Test binaries
+test_*
