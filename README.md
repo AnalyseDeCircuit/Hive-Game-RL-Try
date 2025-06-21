@@ -2,7 +2,7 @@
 # Hive 游戏 AI
 
 🐝 基于 C++ 实现的 Hive 棋盘游戏，具备神经网络和强化学习驱动的先进 AI 能力。
-<p align="center"><strong><span style="font-size:1.5em">现在还有一堆问题，这个游戏目前只能训练但不能玩，还要大改！！！</span></strong></p>
+<p align="center"><strong><span style="font-size:1.5em">现在还有一堆问题，这个游戏目前只能人与人对战，AI训练是假的！</span></strong></p>
 
 ## 🎯 项目概览
 
